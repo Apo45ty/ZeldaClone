@@ -27,6 +27,7 @@
 		24C218BA273DE87700ECB7AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		24C218BC273DE87900ECB7AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24C218BF273DE87900ECB7AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24C218C6273DE94700ECB7AE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		24C218A3273DE87700ECB7AE = {
 			isa = PBXGroup;
 			children = (
+				24C218C6273DE94700ECB7AE /* README.md */,
 				24C218AE273DE87700ECB7AE /* ZeldaClone */,
 				24C218AD273DE87700ECB7AE /* Products */,
 			);
